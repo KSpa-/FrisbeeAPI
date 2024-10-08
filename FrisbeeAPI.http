@@ -1,0 +1,6 @@
+@FrisbeeAPI_HostAddress = http://localhost:5122
+
+GET {{FrisbeeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
